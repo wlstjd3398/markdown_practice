@@ -76,4 +76,53 @@ CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경�
 
 
 # 블록(block) 코드 강조
+```html
 <a href="https://www.google.co.kr/" targer="_blank">Google</a>
+```
+
+```css
+
+```
+
+```javascript
+
+```
+
+```bash
+$ git commit -m 'Study Markdown'
+```
+
+```plaintext
+동해물과 백두산이 마르고 닳도록
+하느님이 보우하사 우리나라 만세
+```
+
+
+# 표(Table)
+position 속성
+값 | 의미 | 기본값
+:--|:--:|--:
+static | 기준 없음 | o
+relative | 요소 자신 | x
+absolute | 위치 상 부모 요소 | x
+fixed | 뷰포트 | x
+
+
+# 원시 HTML(Raw HTML)
+동해물과 <u>백두산이</u> 마르고 닳도록<br/>
+하느님이 <span style="text-decoration: underline;">보우하사</span> 우리나라 만세
+
+<a href="https://naver.com" title="Naver로 이동!">Naver</a>
+
+<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY"/>
+
+
+# 수평선(Horizontal Rule)
+---
+
+***
+
+___
+
+
+
